@@ -17,6 +17,6 @@ Once Maven build done then by running jar, application will start -
 Open [http://localhost:8080] (http://localhost:8080) to view it in your browser.
 
 
-### To run application on same port added following plugins 
+### To serve application on port 8080 added following plugins 
 1. maven-resources-plugin
 2. frontend-maven-plugin
