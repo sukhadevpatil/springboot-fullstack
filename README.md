@@ -20,3 +20,5 @@ Open [http://localhost:8080] (http://localhost:8080) to view it in your browser.
 ### To serve application on port 8080 added following plugins 
 1. maven-resources-plugin
 2. frontend-maven-plugin
+
+Packaging in a jar & pages would be rendered on the same url
