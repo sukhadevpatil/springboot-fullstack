@@ -14,7 +14,7 @@ This will builds & generates the jar - fullstack-0.0.1-SNAPSHOT.jar
 
 Once Maven build done then by running jar, application will start -
 
-Open [http://localhost:8080] to view it in your browser.
+Open [http://localhost:8080] (http://localhost:8080) to view it in your browser.
 
 
 ### To run application on same port added following plugins 
